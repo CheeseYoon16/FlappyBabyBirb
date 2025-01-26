@@ -1,7 +1,8 @@
 # FlappyBabyBirb
 ## CLONE OF FLAPPY BIRD
 This is a repository of a Unity Game Project that reproduces a game called Flappy Bird.
-![Screenshot_20250126_104220_FlappyBabyBirb](https://github.com/user-attachments/assets/20c16b53-a0a2-4d2a-8180-d3dd005f2305)
+![Screenshot_20250126_104220_FlappyBabyBirb](https://github.com/user-attachments/assets/19b791f8-49ec-4052-b17d-549fb507cb1f)
+
 
 ## HOW TO RUN THE GAME (ANDROID)
 1. Download the .apk file to your android device.
